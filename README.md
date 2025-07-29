@@ -1,4 +1,4 @@
-**Easy-Roblox-GUIs**
+d**Easy-Roblox-GUIs**
 
 ```
 
@@ -39,11 +39,13 @@ Grab each GUI package from the main branch:
 
 ## ⚙️ Tool Overview
 
-**Fling-GUI** • Propel game objects with a click.
+**Fling-GUI** • Send other players flying with just name and a click.
 
 **Fly-GUI** • Enable controlled flight mechanics.
 
 **Infinite-Jump-GUI** • Unlock boundless jumping.
+
+**More Tools Coming Soon!** • Stay tuned for new GUI tools.
 
 ---
 
