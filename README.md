@@ -41,23 +41,23 @@ Grab each GUI package from the main branch:
 
 ## ⚙️ Tool Overview
 
-**Fling-GUI** 
+**Fling-GUI:** 
 _Type a name, send them to space._
 
-**Fly-GUI**
+**Fly-GUI:**
 _Walking is for peasants._
 
-**Infinite-Jump-GUI**
+**Infinite-Jump-GUI:**
 _Who needs a jump limit?_
 
-**Click-to-Teleport-GUI**
+**Click-to-Teleport-GUI:**
 _Instand transportation... No Uber required_
 
-**Noclip-GUI**
+**Noclip-GUI:**
 _Walls are just suggestions._
 
 **Coming soon:** 
-_even more ways to break the game._
+_Even more ways to break the game._
 
 ---
 
