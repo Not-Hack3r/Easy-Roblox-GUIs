@@ -1,4 +1,4 @@
-d**Easy-Roblox-GUIs**
+**Easy-Roblox-GUIs**
 
 ```
 
