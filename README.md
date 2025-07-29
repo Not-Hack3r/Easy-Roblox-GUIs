@@ -1,73 +1,109 @@
-```bash
-#!/usr/bin/env bash
-# generate-readme.sh
-# This script creates the README.md for the CyberTools GUI Suite.
-
-cat << 'EOF' > README.md
-**CyberTools GUI Suite**
+**Easy-Roblox-GUIs**
 
 ```
 
+  ______                   _____ _    _ _____ 
+ |  ____|                 / ____| |  | |_   _|
+ | |__   __ _ ___ _   _  | |  __| |  | | | |  
+ |  __| / _` / __| | | | | | |_ | |  | | | |  
+ | |___| (_| \__ \ |_| | | |__| | |__| |_| |_ 
+ |______\__,_|___/\__, |  \_____|\____/|_____|
+                   __/ |                      
+                  |___/                       
+                   
+```
+
+## ⚠️ Disclaimer
+
+This repository and its contents are provided strictly for **educational purposes only**. The tools included are designed to demonstrate GUI scripting and Lua interface development.
+
+**I do not condone or encourage any unauthorized access, modification, or exploitation of platforms such as Roblox.** Using these tools in violation of Roblox’s [Terms of Service](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Terms-of-Use) may result in account suspension or legal action.
+
+Use responsibly, within the bounds of the law and platform policies.
+
 ---
 
-▓█████ ▄▄▄        ██████▓██   ██▓     ▄████  █    ██  ██▓
-▓█   ▀▒████▄    ▒██    ▒ ▒██  ██▒    ██▒ ▀█▒ ██  ▓██▒▓██▒
-▒███  ▒██  ▀█▄  ░ ▓██▄    ▒██ ██░   ▒██░▄▄▄░▓██  ▒██░▒██▒
-▒▓█  ▄░██▄▄▄▄██   ▒   ██▒ ░ ▐██▓░   ░▓█  ██▓▓▓█  ░██░░██░
-░▒████▒▓█   ▓██▒▒██████▒▒ ░ ██▒▓░   ░▒▓███▀▒▒▒█████▓ ░██░
-░░ ▒░ ░▒▒   ▓▒█░▒ ▒▓▒ ▒ ░  ██▒▒▒     ░▒   ▒ ░▒▓▒ ▒ ▒ ░▓  
- ░ ░  ░ ▒   ▒▒ ░░ ░▒  ░ ░▓██ ░▒░      ░   ░ ░░▒░ ░ ░  ▒ ░
-   ░    ░   ▒   ░  ░  ░  ▒ ▒ ░░     ░ ░   ░  ░░░ ░ ░  ▒ ░
-   ░  ░     ░  ░      ░  ░ ░              ░    ░      ░  
-                         ░ ░                             
-````
-
-Welcome to the **CyberTools GUI Suite**, a collection of lightweight, professional, and hacker-themed graphical interfaces designed for easy integration.
+Welcome to **Easy-Roblox-GUIs**, developed by **Not-Hack3r (AlexSoko123)**. This suite delivers sleek, professional, hacker-themed GUIs tailored for Lua scripting in Roblox. Each module offers intuitive controls and seamless performance.
 
 ---
 
 ## 🔗 Downloads
-- [Fling-GUI](./Fling-GUI)
-- [Fly-GUI](./Fly-GUI)
-- [Infinite-Jump-GUI](./Infinite-Jump-GUI)
+
+Grab each GUI package from the main branch:
+
+* [Fling-GUI](./Fling-GUI)
+* [Fly-GUI](./Fly-GUI)
+* [Infinite-Jump-GUI](./Infinite-Jump-GUI)
 
 ---
 
 ## ⚙️ Tool Overview
 
-**Fling-GUI**: Propel game objects with a click.
+**Fling-GUI** • Propel game objects with a click.
 
-**Fly-GUI**: Controlled flight mechanics for players.
+**Fly-GUI** • Enable controlled flight mechanics.
 
-**Infinite-Jump-GUI**: Boundless jumping capabilities.
+**Infinite-Jump-GUI** • Unlock boundless jumping.
+
+---
+
+## 🛠 Installation & Usage
+
+1. **Clone the Repo**
+
+   ```bash
+   git clone https://github.com/Not-Hack3r/Easy-Roblox-GUIs.git
+   cd Easy-Roblox-GUIs
+   ```
+
+2. **Load a GUI**
+
+   * Place your Lua injector (e.g., JJSploit, Synapse X) in the same folder.
+   * Inject the desired `.lua` file (e.g., `Fly-GUI.lua`) in-game.
+
+3. **Operate**
+
+   * **Start** engages functionality.
+   * **Stop** pauses it.
+   * **Exit** closes the GUI.
+   * Drag the panel anywhere onscreen.
 
 ---
 
 ## 💻 Quick Setup Script
+
+For an automated setup, run:
+
 ```bash
 #!/usr/bin/env bash
 set -e
-REPO_URL="https://github.com/<YOUR-USERNAME>/CyberTools-GUI.git"
 
-echo "Cloning CyberTools GUI Suite..."
+# Clone and verify
+REPO_URL="https://github.com/Not-Hack3r/Easy-Roblox-GUIs.git"
+echo "Cloning Easy-Roblox-GUIs..."
 git clone "$REPO_URL"
-cd CyberTools-GUI
+cd Easy-Roblox-GUIs
+echo "Main branch checked out"
+git checkout main
 
-echo "Available packages:"
+echo "Available modules:"
 ls -1 Fling-GUI Fly-GUI Infinite-Jump-GUI
 
-echo "Setup complete."
-````
+echo "Setup complete by Not-Hack3r (AlexSoko123)!"
+```
+
+---
+
+## 🧑‍💻 Maintainer
+
+Developed and maintained by **Not-Hack3r (AlexSoko123)**. Contributions, bug reports, and feature requests are welcome via GitHub Issues.
 
 ---
 
 ## 📜 License
 
-Released under the **MIT License**.
-© 2025 **AlexSoko123**
-EOF
+Released under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
-echo "README.md has been generated successfully!"
+---
 
-```
-```
+© 2025 **Not-Hack3r (AlexSoko123)**. All rights reserved.
