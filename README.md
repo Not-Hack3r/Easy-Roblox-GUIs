@@ -34,18 +34,30 @@ Grab each GUI package from the main branch:
 * [Fling-GUI](./Fling-GUI)
 * [Fly-GUI](./Fly-GUI)
 * [Infinite-Jump-GUI](./Infinite-Jump-GUI)
+* [Click-to-Teleport-GUI](./Click-to-Teleport-GUI)
+* [Noclip-GUI](./Noclip-GUI)
 
 ---
 
 ## ⚙️ Tool Overview
 
-**Fling-GUI** • Send other players flying with just name and a click.
+**Fling-GUI** 
+_Type a name, send them to space._
 
-**Fly-GUI** • Enable controlled flight mechanics.
+**Fly-GUI**
+_Walking is for peasants._
 
-**Infinite-Jump-GUI** • Unlock boundless jumping.
+**Infinite-Jump-GUI**
+_Who needs a jump limit?_
 
-**More Tools Coming Soon!** • Stay tuned for new GUI tools.
+**Click-to-Teleport-GUI**
+_Instand transportation... No Uber required_
+
+**Noclip-GUI**
+_Walls are just suggestions._
+
+**Coming soon:** 
+_even more ways to break the game._
 
 ---
 
