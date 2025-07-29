@@ -23,7 +23,7 @@ Use responsibly, within the bounds of the law and platform policies.
 
 ---
 
-Welcome to **Easy-Roblox-GUIs**, developed by **Not-Hack3r (AlexSoko123)**. This suite delivers sleek, professional, hacker-themed GUIs tailored for Lua scripting in Roblox. Each module offers intuitive controls and seamless performance.
+Welcome to **Easy-Roblox-GUIs**, developed by **Not-Hack3r (Also known as AlexSoko123)**. This suite delivers sleek and simple GUIs tailored for Lua scripting in Roblox. Each module offers intuitive controls and seamless performance.
 
 ---
 
@@ -110,7 +110,7 @@ echo "Setup complete by Not-Hack3r (AlexSoko123)!"
 
 ## 🧑‍💻 Maintainer
 
-Developed and maintained by **Not-Hack3r (AlexSoko123)**. Contributions, bug reports, and feature requests are welcome via GitHub Issues.
+Developed and maintained by **Not-Hack3r**. Contributions, bug reports, and feature requests are welcome via GitHub Issues.
 
 ---
 
@@ -120,4 +120,4 @@ Released under the **MIT License**. See [LICENSE](./LICENSE) for details.
 
 ---
 
-© 2025 **Not-Hack3r (AlexSoko123)**. All rights reserved.
+© 2025 **Not-Hack3r**. All rights reserved.
